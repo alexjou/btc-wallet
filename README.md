@@ -1,4 +1,4 @@
-# Criador de carteiras virtuais na Blockchain
+# Criador de Carteiras de Criptomoedas na Blockchain
 
 ## Comando para criar uma carteira (modificando no código para mainnet ou testnet)
 
