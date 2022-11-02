@@ -2,6 +2,7 @@
 
 ## Comando para criar uma carteira (modificando no código para mainnet ou testnet)
 
+`yarn start` \
 `cd src` \
 `node .\createWallet.js`
 
